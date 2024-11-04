@@ -24,7 +24,7 @@
                 <option value="dog">Dog</option>
                 <option value="bird">Bird</option>
                 <option value="fish">Fish</option>
-                <option value="reptile">Reptile</option>
+                <option value="reptile">Reptilian</option>
                 <option value="other">Other</option>
             </select>
 
